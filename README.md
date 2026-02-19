@@ -1,32 +1,46 @@
-# Pedro Mendes
-Engenheiro de Software com foco em desenvolvimento Backend utilizando o ecossistema Java. Minha abordagem é fundamentada em sólidos princípios de engenharia e arquitetura de software, como o padrão MVC e o design em Camadas (Layered Architecture), para construir soluções robustas, escaláveis e de fácil manutenção.
+# Olá, eu sou o Pedro Mendes! 👋
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, busco ativamente uma posição como Desenvolvedor Java Júnior para aplicar e aprofundar minhas habilidades em um ambiente corporativo, contribuindo para projetos complexos e desafiadores.
-## Conecte Comigo!!
+**Engenheiro de Software | System Design & Arquitetura de Soluções**
+
+Engenheiro de Software focado na resolução de problemas complexos a partir de *First Principles*, raciocínio lógico e sólidas práticas de engenharia (Clean Code, SOLID e Domain-Driven Design). Tenho forte atuação no ecossistema **Backend (Python/Django e Node.js)** para arquitetar APIs escaláveis, além de construir interfaces dinâmicas e modernas no **Frontend (React e TypeScript)**.
+
+Atualmente atuo desenvolvendo soluções reais de ponta a ponta (como plataformas SaaS) e busco oportunidades para aplicar e aprofundar minhas habilidades de engenharia e desenho de sistemas em um ambiente corporativo, focando em entregas de alto impacto.
+
+## 📫 Conecte Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-mendes-985159235/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:freitas.mendesph@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrooo_menndess/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bukoswski)
+[![E-mail](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:freitas.mendesph@gmail.com)
 
-## Habilidades
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+---
+
+## 🛠️ Minhas Habilidades & Tecnologias
+
+### Backend & Arquitetura
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend & UI
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Cloud, DevOps & Infraestrutura
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bukoswski&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=2F4F2F)
+---
 
-## Linguagens
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bukoswski&bg_color=000&border_color=2F4F2F&title_color=00FF00&text_color=00FF00)
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bukoswski&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukoswski&layout=compact&langs_count=7&theme=nord"/>
+</div>
