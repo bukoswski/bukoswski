@@ -1,7 +1,5 @@
 # Olá, eu sou o Pedro Mendes! 👋
 
-**Engenheiro de Software | System Design & Arquitetura de Soluções**
-
 Engenheiro de Software focado na resolução de problemas complexos a partir de *First Principles*, raciocínio lógico e sólidas práticas de engenharia (Clean Code, SOLID e Domain-Driven Design). Tenho forte atuação no ecossistema **Backend (Python/Django e Node.js)** para arquitetar APIs escaláveis, além de construir interfaces dinâmicas e modernas no **Frontend (React e TypeScript)**.
 
 Atualmente atuo desenvolvendo soluções reais de ponta a ponta (como plataformas SaaS) e busco oportunidades para aplicar e aprofundar minhas habilidades de engenharia e desenho de sistemas em um ambiente corporativo, focando em entregas de alto impacto.
